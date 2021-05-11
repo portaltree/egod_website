@@ -26,6 +26,11 @@ img {
     box-shadow: 5px 6px #888888;
 }
 
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
+
 .content {
     padding-left: 100px;
     padding-right: 100px;
@@ -41,11 +46,11 @@ img {
 }
 
 a:link {
-    color: #756f6f;
+    color: #938888;
 }
 
 a:visited {
-    color: #756f6f;
+    color: #938888;
 }
 
 .header {
